@@ -1,0 +1,7 @@
+def search(auto_number):
+    pass
+
+
+number auto = input("Enter auto num: ")
+
+print(search(auto_number=number_auto))
