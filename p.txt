@@ -1,5 +1,10 @@
 def search(auto_number):
-    pass
+    db = {
+        "AE4098II": "Maks"
+        "BB4099KI": "Dima"
+        "AA7777AA": "Valeria"
+    }
+    return db.get(auto_number)
 
 
 number auto = input("Enter auto num: ")
