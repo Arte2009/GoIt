@@ -1,0 +1,6 @@
+def reserve (book_table):
+    pass
+db = {
+    "Dmitriy Vasilovich": "table 10"
+    "Andrey,Nastya": "table 1"
+}
